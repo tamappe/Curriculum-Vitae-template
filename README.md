@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|玉置　洋輔 (Yosuke Tamaoki))|
+|Name|玉置　洋輔 (Yosuke Tamaoki)|
 |Twitter|[@tamapppe](https://twitter.com/tamapppe)|
 |Qiita|[tamappe](http://qiita.com/tamappe)|
 
