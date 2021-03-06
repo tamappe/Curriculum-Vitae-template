@@ -66,28 +66,28 @@ Redmine
 
 #### 主な業務内容
 
-- iOSアプリのメンテナンス 
+1. iOSアプリのメンテナンス 
 
-・Swift 3.2からSwift5.3へバージョンアップデート対応  
-・iOS 12をiOS 14にメジャーアップデート対応
+- Swift 3.2からSwift5.3へバージョンアップデート対応  
+- iOS 12をiOS 14にメジャーアップデート対応
 
-・[毎年恒例の iOS メジャーアップデートで iOS 14 対応した話しを振り返ります](https://rarejob-tech-dept.hatenablog.com/entry/2021/02/19/190000)
+- [毎年恒例の iOS メジャーアップデートで iOS 14 対応した話しを振り返ります](https://rarejob-tech-dept.hatenablog.com/entry/2021/02/19/190000)
 
-・[Swift 3 からSwift 4.2 にリプレイスとリファクタリングした話しを紹介します。](https://rarejob-tech-dept.hatenablog.com/entry/2019/05/10/190000)
+- [Swift 3 からSwift 4.2 にリプレイスとリファクタリングした話しを紹介します。](https://rarejob-tech-dept.hatenablog.com/entry/2019/05/10/190000)
 
-- 新規機能開発
+2. 新規機能開発
 
 具体例
-・SkyWayを使ったリアルタイムなオンライン英会話サービスを提供していますので、SkyWayの仕様を把握しながら機能を開発して行く必要があります。
-・Sign in with Apple対応
 
-・[iOS 版レアジョブアプリが Sign in with Apple に対応した話](https://rarejob-tech-dept.hatenablog.com/entry/2020/08/21/190000)
+- SkyWayを使ったリアルタイムなオンライン英会話サービスを提供していますので、SkyWayの仕様を把握しながら機能を開発して行く必要があります。
+- Sign in with Apple対応
+- [iOS 版レアジョブアプリが Sign in with Apple に対応した話](https://rarejob-tech-dept.hatenablog.com/entry/2020/08/21/190000)
 
-- 技術的負債の返済
+3. 技術的負債の返済
 
-・[レッスンルームのチャットUIを MessageKit に差し替えたときのツラミとレガシーコードとの向かい方](https://rarejob-tech-dept.hatenablog.com/entry/2019/10/18/190000)
+- [レッスンルームのチャットUIを MessageKit に差し替えたときのツラミとレガシーコードとの向かい方](https://rarejob-tech-dept.hatenablog.com/entry/2019/10/18/190000)
 
-・[UIWebViewからWKWebViewへのリプレイス作業が完了したのでまとめてみた](https://rarejob-tech-dept.hatenablog.com/entry/2020/04/24/190000)
+- [UIWebViewからWKWebViewへのリプレイス作業が完了したのでまとめてみた](https://rarejob-tech-dept.hatenablog.com/entry/2020/04/24/190000)
 
 
 ---
