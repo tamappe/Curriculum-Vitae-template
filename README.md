@@ -4,9 +4,10 @@
 
 |key|value|
 |---|-----|
-|Name|玉置　洋輔 (Yosuke Tamaoki)|
+|Name|Yosuke Tamaoki|
 |Twitter|[@tamapppe](https://twitter.com/tamapppe)|
 |Qiita|[tamappe](http://qiita.com/tamappe)|
+|Blog|[Tamappe Life Log](https://tamappe.com/)|
 
 
 ### 言語
@@ -32,17 +33,72 @@
 - Rails
 
 - Laravel
-  - https://chekera.net/
+  - https://chekera.herokuapp.com
 
 # 職務経歴
 
 ## 職務経歴書1
 
 ### 期間
-2018/5 - 現在 
+2019/4 - 現在
 
 ### プロジェクト名
-医療系メディアのアプリ開発プロジェクト
+オンライン英会話系アプリの開発プロジェクト (レアジョブ)
+
+### 契約形態
+正社員
+
+### 職務
+モバイルアプリケーションエンジニア
+
+#### 使用言語: 
+Swift(iOS + UIKit)  
+Kotlin(Android)  
+
+
+#### 開発環境周り
+
+Xcode12.3, Android Studio, Github, Redmine, Slack + チャットワーク
+
+#### チケット管理
+
+Redmine
+
+#### 主な業務内容
+
+- iOSアプリのメンテナンス 
+
+・Swift 3.2からSwift5.3へバージョンアップデート対応  
+・iOS 12をiOS 14にメジャーアップデート対応
+
+・[毎年恒例の iOS メジャーアップデートで iOS 14 対応した話しを振り返ります](https://rarejob-tech-dept.hatenablog.com/entry/2021/02/19/190000)
+
+・[Swift 3 からSwift 4.2 にリプレイスとリファクタリングした話しを紹介します。](https://rarejob-tech-dept.hatenablog.com/entry/2019/05/10/190000)
+
+- 新規機能開発
+
+具体例
+・SkyWayを使ったリアルタイムなオンライン英会話サービスを提供していますので、SkyWayの仕様を把握しながら機能を開発して行く必要があります。
+・Sign in with Apple対応
+
+・[iOS 版レアジョブアプリが Sign in with Apple に対応した話](https://rarejob-tech-dept.hatenablog.com/entry/2020/08/21/190000)
+
+- 技術的負債の返済
+
+・[レッスンルームのチャットUIを MessageKit に差し替えたときのツラミとレガシーコードとの向かい方](https://rarejob-tech-dept.hatenablog.com/entry/2019/10/18/190000)
+
+・[UIWebViewからWKWebViewへのリプレイス作業が完了したのでまとめてみた](https://rarejob-tech-dept.hatenablog.com/entry/2020/04/24/190000)
+
+
+---
+
+## 職務経歴書2
+
+### 期間
+2018/5 - 2019/3
+
+### プロジェクト名
+大手医療系メディアのアプリ開発プロジェクト
 
 ### 契約形態
 業務委託
