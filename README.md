@@ -29,6 +29,22 @@
   - Listening: ディスカッション以外の1on1の英会話ならできる
   - Speaking: かんたんな日常会話ができる
 
+# 過去の登壇資料
+
+iOSDC 2021
+
+[async/awaitの性能をDartとSwiftとの比較で読み解く](https://speakerdeck.com/tamappe/awaitfalsexing-neng-wodarttoswifttofalsebi-jiao-dedu-mijie-ku)
+
+iOSDC 2020
+
+[SwiftUIとFlutterを比較する](https://speakerdeck.com/tamappe/swiftuitoflutterwobi-jiao-suru)
+
+
+
+# 執筆歴
+
+- [SoftwareDesignの2020年11月号の「2時間でわかるFlutterモバイルアプリ開発」](https://www.amazon.co.jp/dp/B08JB9PB65)
+
 # 職務経歴
 
 目次
