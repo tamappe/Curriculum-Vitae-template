@@ -61,10 +61,10 @@ iOSDC 2020
 ## 職務経歴書 (No. 8)
 
 ### 期間
-2022/4 - 現在
+2022/4 - 現在(2024/12)
 
 ### プロジェクト名
-モバイルSDKの保守運用 (LINE ヤフー)
+モバイルSDKの開発プロジェクト (LINEヤフー)
 
 ### 契約形態
 正社員
@@ -80,15 +80,26 @@ Kotlin (Android)
 
 #### チーム規模
 
+##### アサイン当初
 全体のチーム: 10名規模
 
-アプリチーム  
+SDKチーム  
 アプリエンジニア 3名(iOS 1.5名, Android 1.5名)  
-PO, PM 2名.   
+BEチーム  
+データエンジニア 6名以上  
+
+##### 2024/12
+
+全体のチーム: 15名規模
+
+SDKチーム  
+アプリエンジニア 5名(iOS 2.5名, Android 2.5名)  
+BEチーム  
+データエンジニア 9名以上  
 
 #### 開発環境周り
 
-Xcode 14.2, Android Studio, Github, JIRA, Confluence, Slack
+Xcode, Android Studio, Github Enterprise, Slack, fastlane, Screwdriver.cd
 
 #### チケット管理
 
